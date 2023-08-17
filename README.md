@@ -1,6 +1,6 @@
 ### Hellooo 👋
 
-I'm a software engineer and open source contributor with over 14 years of experience. I spend most of my time hacking on projects involving AI, cryptography, and distributed systems. I also happen to be a bigggg fan of Elixir, Erlang, and graph databases.
+I'm a software engineer and open source contributor with over 14 years of experience. I spend most of my time hacking on projects involving AI, cryptography, and distributed systems. ❤️ Elixir, Erlang, and graph databases
 
 Currently, I'm cofounder and CTO of Axilla ([website](https://axilla.io), [github](https://github.com/axilla-io)).
 
