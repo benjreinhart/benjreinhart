@@ -6,7 +6,7 @@ Currently, I'm cofounder and CTO of Axilla ([website](https://axilla.io), [githu
 
 Some recent projects of mine:
 
-* Everything at [@axilla-io](https://github.com/axilla-io).
+* Everything at [@axilla-io](https://github.com/axilla-io)
 * A modern [TypeScript implementation](https://github.com/privy-io/shamir-secret-sharing) for Shamir Secret Sharing
 * A [library](https://github.com/benjreinhart/secure-password-utilities) to securely generate passwords, passphrases, pins, and more
 * A robust and efficient [decoder and encoder](https://github.com/benjreinhart/ex_kdl) for the KDL Document Language written in Elixir
