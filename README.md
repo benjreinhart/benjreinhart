@@ -12,6 +12,6 @@ Some recent projects of mine:
 * A robust and efficient [decoder and encoder](https://github.com/benjreinhart/ex_kdl) for the KDL Document Language written in Elixir
 * An [web application](https://github.com/benjreinhart/rayven) for securely sharing secrets
 
-Once upon a time I had a [popular library](https://github.com/benjreinhart/react-native-aws3) React Native and AWS S3 uploads.
+Once upon a time I had a [popular library](https://github.com/benjreinhart/react-native-aws3) for 0-dependency, easy AWS S3 uploads in React Native.
 
 📫 Feel free to get in touch! [https://benreinhart.com](https://benreinhart.com).
