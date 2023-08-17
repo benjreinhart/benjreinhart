@@ -2,7 +2,7 @@
 
 I'm a software engineer and open source contributor with over 14 years of experience. I spend most of my time hacking on projects involving AI, cryptography, and distributed systems. ❤️ Elixir, Erlang, and graph databases
 
-Currently, I'm cofounder and CTO of Axilla ([website](https://axilla.io), [github](https://github.com/axilla-io)).
+Currently, I'm cofounder and CTO of Axilla ([website](https://axilla.io), [github](https://github.com/axilla-io)). I was previously the first hire at [Privy](https://privy.io), working on authentication and end-to-end encryption APIs for data privacy. Before that, I was the tech lead for the data management platform at [Cruise](https://getcruise.com), which hosts the data used to train and evaluate models that drive cars.
 
 Some recent projects of mine:
 
