@@ -4,6 +4,7 @@ Currently, I'm cofounder and CTO of Axflow ([website](https://axflow.dev), [gith
 
 Some recent projects of mine:
 
+* [Srcbook](https://github.com/srcbookdev/srcbook) - Interactive notebooks for JavaScript & TypeScript
 * Everything at [@axflow](https://github.com/axflow)
 * A modern [TypeScript implementation](https://github.com/privy-io/shamir-secret-sharing) for Shamir Secret Sharing
 * A [library](https://github.com/benjreinhart/secure-password-utilities) to securely generate passwords, passphrases, pins, and more
