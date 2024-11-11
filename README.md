@@ -7,7 +7,7 @@ Some recent projects of mine:
 * [Srcbook](https://github.com/srcbookdev/srcbook) - Interactive notebooks for JavaScript & TypeScript
 * A modern [TypeScript implementation](https://github.com/privy-io/shamir-secret-sharing) for Shamir Secret Sharing
 * A [library](https://github.com/benjreinhart/secure-password-utilities) to securely generate passwords, passphrases, pins, and more
-* A robust and efficient [Server Sent Events parser](https://github.com/benjreinhart/server_sent_events) written in Elixir
+* A robust and efficient [Server Sent Events parser](https://github.com/benjreinhart/server_sent_events) for Elixir
 * A [web application](https://github.com/benjreinhart/rayven) for securely sharing secrets
 
 Once upon a time I had a [popular library](https://github.com/benjreinhart/react-native-aws3) for 0-dependency, easy AWS S3 uploads in React Native.
