@@ -5,7 +5,7 @@ Currently, I'm cofounder and CTO of Mocha ([website](https://getmocha.com), [git
 Some recent projects of mine:
 
 * [Mocha](https://getmocha.com) - AI web app builder for everyone
-* [Srcbook](https://github.com/srcbookdev/srcbook) - AI-enabled TypeScript code notebooks
+* [Srcbook](https://github.com/srcbookdev/srcbook) - AI-enabled notebooks for TypeScript
 * A modern [TypeScript implementation](https://github.com/privy-io/shamir-secret-sharing) for Shamir Secret Sharing
 * A robust and efficient [Server Sent Events parser](https://github.com/benjreinhart/server_sent_events) for Elixir
 * A [library](https://github.com/benjreinhart/secure-password-utilities) to securely generate passwords, passphrases, pins, and more
